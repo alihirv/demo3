@@ -18,8 +18,6 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.time.temporal.ChronoUnit;
 public class Varaus extends Application {
-//
-
     public class FontManager {
         public static void setDefaultFont(TextField textField) {
             Font font = Font.font("Arial", 14);
