@@ -8,7 +8,7 @@ import java.sql.PreparedStatement;
 import java.sql.SQLException;
 import java.time.LocalDate;
 import java.util.Properties;
-
+//
 public class DatabaseConnection {
     private static String DB_URL;
     private static String USER;
